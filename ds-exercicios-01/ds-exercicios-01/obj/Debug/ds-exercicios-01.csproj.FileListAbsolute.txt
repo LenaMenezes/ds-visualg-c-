@@ -1,0 +1,10 @@
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\bin\Debug\ds-exercicios-01.exe.config
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\bin\Debug\ds-exercicios-01.exe
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\bin\Debug\ds-exercicios-01.pdb
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.csproj.AssemblyReference.cache
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds_exercicios_01.Properties.Resources.resources
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.csproj.GenerateResource.cache
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.csproj.CoreCompileInputs.cache
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.exe
+C:\Users\lenaj\OneDrive\Área de Trabalho\ds-exercicios\ds-exercicios-01\ds-exercicios-01\obj\Debug\ds-exercicios-01.pdb
