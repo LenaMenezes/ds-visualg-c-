@@ -13,18 +13,7 @@ leia(litros)
 escreva("Digite A para alcool ou G para gasolina: ")
 leia(cod)
 //alcool
-se(cod="b")entao
-                result:=litros*5.50
-                       se(result>20)entao
-                       result3:=result -(result*6)/100
-                       escreva(result3)
-                       senao
-                            se(result<20)entao
-                            result3:=result -(result*4)/100
-                            escreva(result3)
-                            senao
-//gasolina
-                se(cod="a")entao
+se(cod="a")entao
 result:=litros*4.30
       se(result>20)entao
       result2:=result -(result*5)/100
@@ -34,14 +23,8 @@ result:=litros*4.30
            result2:=result -(result*3)/100
            escreva(result2)
            senao
-                            fimse
-                       fimse
-                fimse
-          fimse
-      fimse
-fimse
-fimalgoritmo
-se(cod="b")entao
+//gasolina
+                se(cod="g")entao
                 result:=litros*5.50
                        se(result>20)entao
                        result3:=result -(result*6)/100
@@ -50,3 +33,10 @@ se(cod="b")entao
                             se(result<20)entao
                             result3:=result -(result*4)/100
                             escreva(result3)
+                            fimse
+                       fimse
+                fimse
+          fimse
+      fimse
+fimse
+fimalgoritmo
