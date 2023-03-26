@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "tabuada"
 // Disciplina  :  [DS]
 // Professor   : Nivia
 // Autor(a)    : helena e giovana
